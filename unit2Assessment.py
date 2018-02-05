@@ -31,4 +31,4 @@ chicken = workers("Charlie the Chicken", "Cluck", "I have two legs", "I produce 
 goat = workers("Billy the Goat", "Meeeh", "I have 4 legs", "I produce milk and meat")
 cat = recreation("Cowie the Cat", "Meow", "I have 4 legs", "I sleep wherever I want")
 dog = recreation("Duke The Dog", "Ruff", " I have 4 legs", " I sleep in the doghouse")
-human = workers("Frank the Farmer", "Yeehaw", "I walk on two legs", "I run this far")
+human = workers("Frank the Farmer", "Yeehaw", "I walk on two legs", "I run this farm")
